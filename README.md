@@ -2,7 +2,7 @@
 作者：一米大叔，QQ：8419280<br>
 本项目免费使用但不开源，Free to use but not open source。<br>
 下载exe文件可直接执行。Download the exe file for direct execution。<br>
-启动exe文件后，访问http://localhost:9433/<br>
+点击exe启动控制后，访问http://localhost:9433/<br>
 # 思路
 1. 像NODE一样，构架一个SQL管理平台，将SQL的开发时和运动时解耦合。</br>
 2. 开发时，将SQL当作数据服务统一进行解析和优化，用于实现数据组件中的内容管理。</br>
